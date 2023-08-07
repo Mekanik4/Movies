@@ -1,0 +1,28 @@
+<resources>
+    <string name="app_name">Movies</string>
+    <string name="no_movies_text">No internet connection. Please connect your device to the internet and tap here to retry.</string>
+    <string name="sign_in_text">Sign In</string>
+    <string name="wrong_credentials">wrong credentials</string>
+    <string name="close_dialog_text">Close</string>
+    <string name="more_movie_details">More</string>
+    <string name="rating">Ratings</string>
+    <string name="runtime">Runtime</string>
+    <string name="original_title">Original title</string>
+    <string name="genres">Genres</string>
+    <string name="min">min</string>
+    <string name="n_a">N/A</string>
+    <string name="cast">Cast</string>
+    <string name="add_to_favourites">Added to favourites!</string>
+    <string name="removed_from_favourites">Removed from favourites!</string>
+    <string name="movie_list">movie list</string>
+    <string name="no_favourites_text">There aren\'t any movies in favourites list yet.</string>
+    <string name="previous_page">Previous page</string>
+    <string name="next_page">Next page</string>
+    <string name="sign_out_dialog">Are you sure you want to sign out?</string>
+    <string name="yes">Yes</string>
+    <string name="no">No</string>
+    <string name="username">Username</string>
+    <string name="year">2023</string>
+    <string name="exit_app_toast">Click Back button again to exit the app.</string>
+    <string name="no_internet">No internet connection.</string>
+</resources>
